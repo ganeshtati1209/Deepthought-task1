@@ -12,7 +12,7 @@ This backend service solves that by selecting the **most suitable slot** based o
 
 -  Shortest distance to target position
 -  Size compatibility (small or big)
-- ❄ Cold unit requirement (if needed)
+-  Cold unit requirement (if needed)
 -  Whether the slot is already occupied
 
 ---
