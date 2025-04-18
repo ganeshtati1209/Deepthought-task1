@@ -29,7 +29,7 @@ This backend service solves that by selecting the **most suitable slot** based o
 
 ---
 
-## ⚙ How to Run the Project
+##  How to Run the Project
 
 ```bash
 # 1. Clone the repo
