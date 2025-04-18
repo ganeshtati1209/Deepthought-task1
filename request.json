@@ -11,4 +11,15 @@
       "x": 1,
       "y": 2,
       "sizeCap": "small",
-      "hasColdUnit":
+      "hasColdUnit": false,
+      "occupied": false
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "sizeCap": "big",
+      "hasColdUnit": true,
+      "occupied": false
+    }
+  ]
+}
